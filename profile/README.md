@@ -1,4 +1,4 @@
-<div align="center"> <br /> <p> <a href="https://lettuce.ai/"><img src="./assets/logo.svg" width="546" alt="lettuce ai" /></a> </p> </div>
+<div align="center"> <br /> <p> <img src="./assets/lettuce.svg" width="546" alt="lettuce ai" /></a> </p> </div>
 A privacy-first roleplay application for creative storytelling with AI characters.
 
 What is Lettuce AI?
