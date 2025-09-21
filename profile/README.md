@@ -4,12 +4,6 @@
 
 ---
 
-## What is Lettuce AI?
+LettuceAI is a private roleplay chat client. It lets you build characters, write stories, and interact with AI models while keeping your conversations and data entirely on your device. You bring your own API tokens and choose the models and providers you want—no middlemen, no data collection.
 
-Lettuce is a small project for private roleplay chats. We make a simple client that lets you write stories your way while keeping control of models, providers, and data.
-
-We want to give writers a direct platform for interactive stories. The client works with different language models but keeps your conversations, characters, and plots completely yours. Fantasy adventures, character work, or complex stories. Lettuce provides the tools without getting in your way.
-
-You provide your own API tokens, which means you connect directly to the services you choose. No middleman, no data collection, no restrictions on your content.
-
-We focus on privacy, customization, and creative freedom. Your data belongs to you, your stories stay private, and you pick the models and providers that fit your creative work.
+We focus on **privacy, customization, and creative freedom** so your stories stay yours.
