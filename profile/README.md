@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./lettuceAI-banner.png" alt="LettuceAI" />
+    <img src="./LettuceAI-banner.png" alt="LettuceAI" />
 </div>
 
 ---
